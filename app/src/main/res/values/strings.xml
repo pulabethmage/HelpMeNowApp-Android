@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">HelpMeNow</string>
+    <string name="title_activity_dash_board">DashBoardActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_glowna">Glowna</string>
+    <string name="action_comejest">Co mi jest?</string>
+    <string name="action_bazawiedy">Baza wiedzy</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_home_action">HomeActionActivity</string>
+
+
+    <string name="dis_reanimacja">Ogólną zasadą przeprowadzania RKO u osoby dorosłej jest schemat rozpoczynający się od 30 uciśnięć klatki piersiowej i zrobieniu 2 wdechów. Czynności te należy powtarzać do momentu odzyskania oddechu przez ofiarę lub przyjazdu pogotowia. Istnieją okoliczności, w których ratownik może przerwać resuscytację, np. jest wyczerpany lub zaistniało zagrożenie jego bezpieczeństwa. Ratownik może także poprosić inną osobę o zastępstwo.
+Uciśnięcia: należy wykonywać je na środku klatki piersiowej, używając ciężaru własnego ciała. Dłonie powinny być splecione, łokcie zablokowane. 30 uciśnięć należy wykonać na głębokość około 5-6 cm (u dorosłego człowieka), z częstotliwością 100-120 uciśnięć na minutę.
+Wdechy: przez maseczkę należy wdmuchnąć około 0,5 litra powietrza - tak, aby uniosła się klatka piersiowa poszkodowanego. Nos ofiary powinien być zatkany, a głowa odchylona do tyłu.
+    </string>
+
+
+</resources>

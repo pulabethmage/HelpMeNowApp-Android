@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:background="@color/colourBlue"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="35dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<Button
+    android:onClick="reanimacjs"
+    android:textSize="15sp"
+    android:background="@drawable/helpmenowbtnback"
+    android:text="Reanimacja"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    />
+    <Button
+        android:onClick="sendNotification"
+        android:text="Notify Me"
+        android:id="@+id/sendNotification"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:background="@color/colourBlue"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <TextView
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bol trwa: 1 - 3h"
+        />
+
+    <TextView
+        android:layout_marginTop="10sp"
+        android:textColor="@color/colourGreen"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bol trwa: 1 - 3h"
+        />
+
+    <TextView
+        android:layout_marginTop="5sp"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jak njszybciej skontaktuj sie z numerem alarmowym.Mozesz
+wybrac 112 na telefonie komorkowym lub 999 aby polaczyc sie z odpowiednimi sluzbami."
+        />
+
+
+
+
+
+
+</LinearLayout>

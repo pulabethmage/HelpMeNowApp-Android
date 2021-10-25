@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:background="@color/colourBlue"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="25dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Co Cie boil?"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        >
+
+         <Button
+             android:textSize="20sp"
+             android:layout_marginRight="10dp"
+             android:background="@drawable/helpmenowbtnback"
+             android:onClick="serce"
+            android:text="Serce"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            />
+
+        <Button
+            android:textSize="20sp"
+            android:background="@drawable/helpmenowbtnback"
+            android:onClick="brzuch"
+            android:text="Brzuch"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        >
+
+        <Button
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/helpmenowbtnback"
+            android:onClick="konczyna"
+            android:text="Konczyna"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            />
+
+        <Button
+            android:textSize="20sp"
+            android:background="@drawable/helpmenowbtnback"
+            android:onClick="watroba"
+            android:text="watroba"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="80dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        >
+
+        <Button
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/helpmenowbtnback"
+            android:onClick="nerki"
+            android:text="nerki"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            />
+
+        <Button
+            android:textSize="20sp"
+            android:background="@drawable/helpmenowbtnback"
+            android:onClick="glowa"
+            android:text="glowa"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>
